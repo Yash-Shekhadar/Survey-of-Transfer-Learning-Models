@@ -8,7 +8,8 @@ Following Transfer Learning models were studied:
 * <b>ResNet50</b><br>
 
 Following architecture was followed to build all the models:
-
+<br><br>
+<img src="Images/Generic Architecture (3).png" width="1200" height="150">
 
 Following Datasets were studied:
 * <b>CIFAR-10</b>
